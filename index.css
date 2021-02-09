@@ -1,15 +1,22 @@
     body {
-    background-color: rgb(217, 167, 230);
+    background-color: rgb(63, 15, 75);
     text-align: center;
 }
     h1{
-    color: blue;
+    color: rgb(247, 247, 253);
+    font: 100;
+    font-weight: bold;
 }
     h2{
     color: rgb(252, 4, 4);
 }
+   .container {
+    background-color: rgb(12, 60, 77);
+    padding: 20px;
+
+}
    .box{
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 86%, 17%);
     border-radius: 5px;
     border-width: 1px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
